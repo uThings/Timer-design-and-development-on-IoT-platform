@@ -1,0 +1,9 @@
+circuiti e sistemi elettronici  =   1.30   
+    //fondamenti di programmazione: prima prova intermedia=1.40 
+                                                        //    
+teoria delle reti elettriche ed elettrotecnica =0:01
+  modellizzazione e controllo di sistemi dinamici=2.15 /ciao
+circuiti e sistemi elettronici=   0.01    
+//teoria dei segnale e comunicazioni elettriche=1
+teoria delle reti=0:45
+modellizzazione e controllo di sistemi dinamici=2.15
