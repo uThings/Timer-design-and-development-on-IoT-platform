@@ -1,0 +1,2 @@
+# Timer-design-and-development-on-IoT-platform
+This project is a Bachelor thesis in Electronic Engineering realized by student Riccardo Deana with the supervision of professor Pier Luca Montessoro. Here you can find the open-source code and the PDF file of the thesis (Italian version). For a more accurate description of the project and setup guide you can visit the site: https://uthings.uniud.it/timer-design-and-development-on-iot-platform/
